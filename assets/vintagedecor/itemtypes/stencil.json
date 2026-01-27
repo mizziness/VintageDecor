@@ -1,0 +1,87 @@
+{
+  "code": "stencil",
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [
+        "plain",
+        "plain-blank",
+        "plain-speckled-white",
+        "plain-speckled-gray",
+        "plain-speckled-brown",
+        "plain-speckled-black",
+        "plain-marbled",
+        "plain-granite",
+        "stripes",
+        "stripes-blue",
+        "stripes-pink",
+        "stripes-purple",
+        "stripes-red",
+        "stripes-black",
+        "stripes-gray",
+        "stripes-cyan",
+        "stripes-green",
+        "food",
+        "food-vanilla-wafer",
+        "food-strawberry-wafer",
+        "food-strawberry-fields",
+        "food-honeycomb",
+        "food-espresso",
+        "food-chocolate-wafer",
+        "food-candybar",
+        "food-buttercream",
+        "manor",
+        "manor-white",
+        "manor-red",
+        "manor-purple",
+        "manor-pink",
+        "manor-green",
+        "manor-blue",
+        "estate",
+        "estate-plum",
+        "estate-orange",
+        "estate-green",
+        "estate-blue"
+      ]
+    }
+  ],
+  "shape": { "base": "item/education/parchment" },
+  "textures": {
+    "all": { "base": "vintagedecor:items/stencil" }
+  },
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "tools": [ "*" ]
+  },
+  "maxstacksize": 1,
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "stencil-*" ]
+    }
+  },
+  "materialDensity": 200,
+  "guiTransform": {
+    "rotation": { "x": 10, "y": -25, "z": 0 },
+    "origin": { "x": 0.5, "y": 0.5, "z": 0 },
+    "scale": 2.1
+  },
+  "groundTransform": {
+    "translation": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 0, "y": 0, "z": 0 },
+    "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+    "scale": 1.5
+  },
+  "tpHandTransform": {
+    "translation": { "x": -1, "y": -0.6, "z": -0.2 },
+    "rotation": { "x": 15, "y": -5, "z": -20 },
+    "origin": { "x": 0.5, "y": 0.5, "z": 0 },
+    "scale": 0.8
+  },
+  "fpHandTransform": {
+    "translation": { "x": 0.1, "y": -0.1, "z": 0.4 },
+    "rotation": { "x": 100, "y": 90, "z": -80 },
+    "origin": { "x": 0.5, "y": 0.5, "z": 0 },
+    "scale": 1.3
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "code": "wallpaper",
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "decorative": [
+      "*"
+    ],
+    "wallpaper": [
+      "*"
+    ]
+  },
+  "behaviors": [
+    {
+      "name": "Decor",
+      "properties": {
+        "sides": [
+          "north",
+          "east",
+          "south",
+          "west",
+          "up",
+          "down"
+        ],
+        "thickness": 0.0
+      }
+    }
+  ],
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [
+        "plain-blank",
+        "plain-speckled-white",
+        "plain-speckled-gray",
+        "plain-speckled-brown",
+        "plain-speckled-black",
+        "plain-marbled",
+        "plain-granite",
+        "manor-white",
+        "manor-red",
+        "manor-purple",
+        "manor-pink",
+        "manor-green",
+        "manor-blue",
+        "stripes-horizontal-blue",
+        "stripes-horizontal-pink",
+        "stripes-horizontal-purple",
+        "stripes-horizontal-red",
+        "stripes-horizontal-black",
+        "stripes-horizontal-gray",
+        "stripes-horizontal-cyan",
+        "stripes-horizontal-green",
+        "food-pattern-vanilla-wafer",
+        "food-pattern-strawberry-wafer",
+        "food-pattern-strawberry-fields",
+        "food-pattern-honeycomb",
+        "food-pattern-espresso",
+        "food-pattern-chocolate-wafer",
+        "food-pattern-candybar",
+        "food-pattern-buttercream",
+        "estate-plum",
+        "estate-plum-stripe",
+        "estate-plum-panel",
+        "estate-plum-panel-stripe",
+        "estate-orange",
+        "estate-orange-stripe",
+        "estate-orange-panel",
+        "estate-orange-panel-stripe",
+        "estate-green",
+        "estate-green-stripe",
+        "estate-green-panel",
+        "estate-green-panel-stripe",
+        "estate-blue",
+        "estate-blue-stripe",
+        "estate-blue-panel",
+        "estate-blue-panel-stripe"
+      ]
+    }
+  ],
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "wallpaper-{type}" ]
+    }
+  },
+  "drawtype": "surfacelayer",
+  "shapeInventory": {
+    "base": "game:block/basic/layers/1voxel",
+    "rotateX": 90
+  },
+  "sidesolid": {
+    "all": false
+  },
+  "sideopaque": {
+    "all": false
+  },
+  "blockmaterial": "Cloth",
+  "replaceable": 5500,
+  "resistance": 0,
+  "lightAbsorption": 0,
+  "textures": {
+    "all": {
+      "base": "vintagedecor:block/wallpaper/{type}"
+    }
+  },
+  "vertexflags": {
+    "zOffset": 1
+  },
+  "drops": [],
+  "combustibleProps": {
+    "burnTemperature": 150,
+    "burnDuration": 2
+  },
+  "guiTransform": {
+    "rotate": false,
+    "rotation": {
+      "x": 15,
+      "y": -42,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0
+    },
+    "scale": 1.5
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -90,
+      "y": 1,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": -0.02
+    },
+    "scale": 2.5
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -1.2,
+      "y": -0.7,
+      "z": 0.1
+    },
+    "rotation": {
+      "x": 5,
+      "y": -12,
+      "z": -25
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0
+    },
+    "scale": 0.45
+  },
+  "sounds": {
+    "place": "game:block/cloth",
+    "break": "game:block/cloth",
+    "hit": "game:block/cloth",
+    "walk": "game:walk/cloth"
+  },
+  "materialDensity": 400,
+  "selectable": true
+}

@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "vintagedecor",
+  "name": "Vintage Decor",
+  "description": "Adds a variety of new wallpapers for interior decor.",
+  "authors": [
+    "Evalynn"
+  ],
+  "version": "1.0.0"
+}

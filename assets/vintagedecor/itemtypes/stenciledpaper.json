@@ -1,0 +1,67 @@
+{
+  "code": "stenciledpaper",
+  "variantgroups": [
+    { "code": "type", "states": [
+      "plain-blank",
+      "plain-speckled-white",
+      "plain-speckled-gray",
+      "plain-speckled-brown",
+      "plain-speckled-black",
+      "plain-marbled",
+      "plain-granite",
+      "stripes-blue",
+      "stripes-pink",
+      "stripes-purple",
+      "stripes-red",
+      "stripes-black",
+      "stripes-gray",
+      "stripes-cyan",
+      "stripes-green",
+      "food-vanilla-wafer",
+      "food-strawberry-wafer",
+      "food-strawberry-fields",
+      "food-honeycomb",
+      "food-espresso",
+      "food-chocolate-wafer",
+      "food-candybar",
+      "food-buttercream",
+      "manor-white",
+      "manor-red",
+      "manor-purple",
+      "manor-pink",
+      "manor-green",
+      "manor-blue",
+      "estate-plum",
+      "estate-orange",
+      "estate-green",
+      "estate-blue",
+      "estate-plum-stripe",
+      "estate-orange-stripe",
+      "estate-green-stripe",
+      "estate-blue-stripe",
+      "estate-plum-panel",
+      "estate-orange-panel",
+      "estate-green-panel",
+      "estate-blue-panel",
+      "estate-plum-panel-stripe",
+      "estate-orange-panel-stripe",
+      "estate-green-panel-stripe",
+      "estate-blue-panel-stripe"
+    ] }
+  ],
+  "shape": { "base": "item/education/parchment" },
+  "textures": {
+    "all": { "base": "vintagedecor:items/stencil" }
+  },
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ]
+  },
+  "maxstacksize": 64,
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "stenciledpaper-*" ]
+    }
+  },
+  "materialDensity": 50
+}

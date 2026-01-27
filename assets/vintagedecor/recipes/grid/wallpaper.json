@@ -1,0 +1,30 @@
+[
+  {
+    "ingredientPattern": "PSS",
+    "ingredients": {
+      "P": { "type": "item", "code": "game:parchment", "quantity": 1 },
+      "S": { "type": "item", "code": "game:stick", "quantity": 1 }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "vintagedecor:wallpaper-plain-blank",
+      "quantity": 9
+    }
+  },
+  {
+    "ingredientPattern": "LSS",
+    "ingredients": {
+      "L": { "type": "block", "code": "game:linen-*-down", "quantity": 1 },
+      "S": { "type": "item", "code": "game:stick", "quantity": 1 }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "vintagedecor:wallpaper-plain-blank",
+      "quantity": 9
+    }
+  }
+]
