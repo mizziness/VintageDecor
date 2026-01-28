@@ -1,0 +1,22 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"paper": "vintagedecor:items/stencil-blank"
+	},
+	"elements": [
+		{
+			"name": "icon",
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": { "uv": [0, 0, 16, 16], "texture": "#paper" }
+			}
+		}
+	]}
