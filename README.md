@@ -4,28 +4,27 @@
 
 Each wallpaper is unique and was created by myself.  I wanted to add more color, vibrancy, and variety to my interior builds, and this is the result!  Included are 45 individual, seamless wallpapers in 5 distinct styles:
 
-
 ### Plain
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-blank.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-blank.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-granite.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-granite.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-marbled.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-marbled.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-speckled-brown.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-speckled-brown.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-speckled-gray.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-speckled-gray.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/plain-speckled-black.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/plain-speckled-black.png" width="64">
     </td>
   </tr>
 </table>
@@ -35,28 +34,28 @@ Each wallpaper is unique and was created by myself.  I wanted to add more color,
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-buttercream.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-buttercream.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-honeycomb.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-honeycomb.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-candybar.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-candybar.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-vanilla-wafer.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-vanilla-wafer.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-strawberry-wafer.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-strawberry-wafer.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-chocolate-wafer.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-chocolate-wafer.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-espresso.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-espresso.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/food-pattern-strawberry-fields.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/food-pattern-strawberry-fields.png" width="64">
     </td>
   </tr>
 </table>
@@ -66,22 +65,22 @@ Each wallpaper is unique and was created by myself.  I wanted to add more color,
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-blue.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-blue.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-green.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-green.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-red.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-red.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-pink.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-pink.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-purple.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-purple.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/manor-white.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/manor-white.png" width="64">
     </td>
   </tr>
 </table>
@@ -91,28 +90,28 @@ Each wallpaper is unique and was created by myself.  I wanted to add more color,
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-black.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-black.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-gray.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-gray.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-red.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-red.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-pink.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-pink.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-purple.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-purple.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-blue.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-blue.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-cyan.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-cyan.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-green.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/stripes-horizontal-green.png" width="64">
     </td>
   </tr>
 </table>
@@ -122,54 +121,54 @@ Each wallpaper is unique and was created by myself.  I wanted to add more color,
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-blue.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-blue.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-blue-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-blue-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-blue-panel.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-blue-panel.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-blue-panel-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-blue-panel-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-plum.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-plum.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-plum-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-plum-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-plum-panel.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-plum-panel.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-plum-panel-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-plum-panel-stripe.png" width="64">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-orange.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-orange.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-orange-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-orange-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-orange-panel.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-orange-panel.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-orange-panel-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-orange-panel-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-green.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-green.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-green-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-green-stripe.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-green-panel.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-green-panel.png" width="64">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/master/assets/vintagedecor/textures/block/wallpaper/estate-green-panel-stripe.png" width="64">
+      <img src="https://raw.githubusercontent.com/mizziness/VintageDecor/refs/heads/main/assets/vintagedecor/textures/block/wallpaper/estate-green-panel-stripe.png" width="64">
     </td>
   </tr>
 </table>
