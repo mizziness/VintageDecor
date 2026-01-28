@@ -1,0 +1,1894 @@
+[
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-blank", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-white", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-gray", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-gray", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-brown", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-black", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-beige", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-marbled", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-granite", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-vanilla-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-strawberry-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-strawberry-fields",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-honeycomb",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-food-pattern-espresso", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-chocolate-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-beige", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-food-pattern-candybar", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-buttercream",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-white", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-red", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-purple", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-pink", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-green", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-blue", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-black",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-gray", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-gray",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-red",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-pink",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-purple",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-blue",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-cyan", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-cyan",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-green",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-blue-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-plum-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-orange-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "item", "code": "game:paper-parchment", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-green-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-blank", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-white", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-gray", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-gray", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-brown", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-speckled-black", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-beige", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-marbled", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-plain",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-plain"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-plain-granite", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-vanilla-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-strawberry-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-strawberry-fields",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-honeycomb",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-food-pattern-espresso", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-chocolate-wafer",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-beige", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-food-pattern-candybar", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-food",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-food"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-food-pattern-buttercream",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-white", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-red", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-purple", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-pink", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-green", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-manor",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-manor"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-manor-blue", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-black",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-gray", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-gray",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-red",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-pink",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-purple",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-blue",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-cyan", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-cyan",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-stripes",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-stripes"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-stripes-horizontal-green",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-blue-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-blue-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-plum-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-plum-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-orange-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-orange-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "P,S,A",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green", "quantity": 32},
+        "width"            : 3,
+        "height"           : 1
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green-stripe", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1}
+        },
+        "output"           : {"type": "block", "code": "vintagedecor:wallpaper-estate-green-panel", "quantity": 32},
+        "width"            : 3,
+        "height"           : 2
+    },
+    {
+        "type"             : "grid",
+        "recipeGroup"      : 2,
+        "ingredientPattern": "PSA,B__",
+        "shapeless"        : true,
+        "ingredients"      : {
+            "P": {"type": "block", "code": "game:linen-*", "quantity": 32},
+            "S": {
+                "type"         : "item",
+                "code"         : "vintagedecor:stencil-estate",
+                "quantity"     : 1,
+                "returnedStack": {"quantity": 1, "type": "item", "code": "vintagedecor:stencil-estate"}
+            },
+            "A": {"type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1},
+            "B": {"type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1}
+        },
+        "output"           : {
+            "type"    : "block",
+            "code"    : "vintagedecor:wallpaper-estate-green-panel-stripe",
+            "quantity": 32
+        },
+        "width"            : 3,
+        "height"           : 2
+    }
+]
