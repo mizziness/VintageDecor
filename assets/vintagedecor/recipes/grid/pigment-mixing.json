@@ -1,0 +1,101 @@
+[
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-orange", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-yellow", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-purple", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-red", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-pink", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-black", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-gray", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-blue", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-green", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-teal", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-teal", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-cyan", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "AB",
+    "shapeless": true,
+    "ingredients": {
+      "A": { "type": "item", "code": "vintagedecor:pigment-powder-brown", "quantity": 1 },
+      "B": { "type": "item", "code": "vintagedecor:pigment-powder-white", "quantity": 1 }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "item", "code": "vintagedecor:pigment-powder-beige", "quantity": 2 }
+  }
+]

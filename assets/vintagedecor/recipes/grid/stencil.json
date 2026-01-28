@@ -1,0 +1,152 @@
+[
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "PPP,S_C",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "P": {"type": "item", "code": "game:paper-parchment"},
+      "S": {"type": "item", "code": "game:stick"          },
+      "C": {"type": "item", "code": "game:*coal*"         }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-plain", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "LLL,S_C",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "L": {"type": "item", "code": "game:linen-*"},
+      "S": {"type": "item", "code": "game:stick"  },
+      "C": {"type": "item", "code": "game:*coal*" }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-plain", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "PPP,CS_",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "P": {"type": "item", "code": "game:paper-parchment"},
+      "S": {"type": "item", "code": "game:stick"          },
+      "C": {"type": "item", "code": "game:*coal*"         }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-food", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "LLL,CS_",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "L": {"type": "item", "code": "game:linen-*"},
+      "S": {"type": "item", "code": "game:stick"  },
+      "C": {"type": "item", "code": "game:*coal*" }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-food", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "PPP,C_S",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "P": {"type": "item", "code": "game:paper-parchment"},
+      "S": {"type": "item", "code": "game:stick"          },
+      "C": {"type": "item", "code": "game:*coal*"         }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-stripes", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "LLL,C_S",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "L": {"type": "item", "code": "game:linen-*"},
+      "S": {"type": "item", "code": "game:stick"  },
+      "C": {"type": "item", "code": "game:*coal*" }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-stripes", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "PPP,_SC",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "P": {"type": "item", "code": "game:paper-parchment"},
+      "S": {"type": "item", "code": "game:stick"          },
+      "C": {"type": "item", "code": "game:*coal*"         }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-manor", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "LLL,_SC",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "L": {"type": "item", "code": "game:linen-*"},
+      "S": {"type": "item", "code": "game:stick"  },
+      "C": {"type": "item", "code": "game:*coal*" }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-manor", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "PPP,_CS",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "P": {"type": "item", "code": "game:paper-parchment"},
+      "S": {"type": "item", "code": "game:stick"          },
+      "C": {"type": "item", "code": "game:*coal*"         }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-estate", "quantity": 1}
+  },
+  {
+    "type"             : "grid",
+    "shapeless"        : false,
+    "recipeGroup"      : 1,
+    "enabled"          : true,
+    "ingredientPattern": "LLL,_CS",
+    "width"            : 3,
+    "height"           : 2,
+    "ingredients"      : {
+      "L": {"type": "item", "code": "game:linen-*"},
+      "S": {"type": "item", "code": "game:stick"  },
+      "C": {"type": "item", "code": "game:*coal*" }
+    },
+    "output"           : {"type": "item", "code": "vintagedecor:stencil-estate", "quantity": 1}
+  }
+]

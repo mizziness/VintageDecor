@@ -5,7 +5,7 @@
     "value": {
       "type": "block",
       "code": "vintagedecor:wallpaper-{type}",
-      "quantity": 1
+      "quantity": { "avg": 1 }
     },
     "file": "vintagedecor:blocktypes/wallpaper"
   }

@@ -3,15 +3,19 @@
   "variantgroups": [
     {
       "code": "family",
-      "states": ["blank", "plain", "food", "stripes", "manor", "estate"]
+      "states": ["plain", "food", "stripes", "manor", "estate"]
     }
   ],
   "shape": { "base": "vintagedecor:item/stencil" },
   "textures": {
-    "paper": { "base": "vintagedecor:items/stencil-blank" }
+    "paper": { "base": "vintagedecor:items/stencil-plain" }
+  },
+  "attributes": {
+    "handbook": {
+      "groupBy": [ "stencil-*" ]
+    }
   },
   "texturesByType": {
-    "stencil-blank": { "paper": { "base": "vintagedecor:items/stencil-blank" } },
     "stencil-plain": { "paper": { "base": "vintagedecor:items/stencil-plain" } },
     "stencil-food": { "paper": { "base": "vintagedecor:items/stencil-food" } },
     "stencil-stripes": { "paper": { "base": "vintagedecor:items/stencil-stripes" } },
